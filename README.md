@@ -35,7 +35,7 @@ I am a software developer focused on building, maintaining, and modernizing web 
 
 ### 💬 Let's Connect!
 
-* **LinkedIn**: [linkedin](https://linkedin.com/in/nwolisa-munachi-pat)
+* [Linkedin](https://linkedin.com/in/nwolisa-munachi-pat)
 
 <!--
 **Munachk/Munachk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
